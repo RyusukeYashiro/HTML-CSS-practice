@@ -1,0 +1,11 @@
+.contribution {
+    background-color: #aef;
+    width: 400px;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
